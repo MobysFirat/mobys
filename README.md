@@ -5,4 +5,4 @@
 - Hazırlanan veri setleri yolo modeli kullanılarak google colob üzerinde model eğitimleri tamamlandı.
 - Flask üzerinde eğitilen model çalıştırılarak ilk aşama çalışır hale geldi.
 
-**EĞLENCELİ EKİP VİDEOMUZ İÇİN** [**tıklayınız**](https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA).
+**EĞLENCELİ EKİP VİDEOMUZ İÇİN** [**TIKLAYINIZ**](https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA).
