@@ -6,3 +6,6 @@
 - Flask üzerinde eğitilen model çalıştırılarak ilk aşama çalışır hale geldi.
 
 https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing
+
+# eğlenceli ekip videomuz
+https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA
