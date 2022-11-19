@@ -1,4 +1,4 @@
-       **NETA grubu olarak bu projeyi oluşturduk.
+       NETA grubu olarak bu projeyi oluşturduk.
 
 - Proje yapısını python-flask ile oluşturduk.
 - Veri setlerini roboflow platformunda işaretlenerek eğitime hazır hale getirildi.
