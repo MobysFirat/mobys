@@ -15,12 +15,11 @@ Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. 
 - Torch: PyTorch, grafik işlem birimlerinin gücünü kullanan derin öğrenme modelleri oluştururken kullanılan Python kütüphanesidir.
 - Os: Python'da hazır olarak gelen, dosya ve dizinlerde kolaylıkla işlemler yapmamızı sağlayan bir modüldür.
 
-**EKİP ÜYELERİ**
+**EKİP ÜYELERİ:**
 -Nurcan DUMAN 180542018
 -Ertuğrul Efe KAYA 190541022
 -Talha Hüseyin DURMUŞ 180542009
 -Ahmetcan İLYAS 190541040
-
 
 **PROJE DETAYLARI İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
 
