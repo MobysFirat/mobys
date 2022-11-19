@@ -21,6 +21,8 @@ Ertuğrul Efe KAYA 190541022
 Talha Hüseyin DURMUŞ 180542009
 Ahmetcan İLYAS 190541040**
 
+### Linkler
+
 **PROJE DETAYLARI İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
 
 
