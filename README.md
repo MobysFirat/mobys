@@ -17,6 +17,8 @@ Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. 
 
 ## EKİP ÜYELERİ
 Nurcan DUMAN 180542018
+Ertuğrul Efe KAYA 190541022
+
 
 
 ### Linkler
