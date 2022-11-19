@@ -8,7 +8,7 @@
 **Açıklama**
 Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. Html’den atılan get isteği sayesinde flask’a gelen istek çalışıyor. Sonrasında post ile geri html’e göndererek sayfada görünmesini sağlıyor. Daha sonrasında verisetlerini roboflow platformunda işaretlenerek eğitime hazır hale getirdik. Hazırlanan verisetleri yolo modeli kullanılarak Google colab üzerinde model eğitimleri tamamlandı. Bir sonraki aşamada Flask üzerinde eğitilen model çalıştırılarak ilk aşamayı çalışır hale getirmiş olduk.
 
-**Neyi Neden Kullandık**
+**Neyi Neden Kullandık:**
 - Requirements.txt: Dosyaları tüm yüklü paketlerin tam sürümlerini içerir ve bu dosyaları kullanarak ortamın gereksinimlerini dondurabiliriz. Hazırladığımız yapıyı bu paket sayesinde başka bir bilgisayarda kolayca yeniden oluşturabilmemizi sağlıyor. 
 - Roboflow: Verisetlerini bu platformda işaretleyerek eğitime hazır hale gelmesini sağladık.
 - IPython.display:
@@ -16,6 +16,8 @@ Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. 
 - Os: Python'da hazır olarak gelen, dosya ve dizinlerde kolaylıkla işlemler yapmamızı sağlayan bir modüldür.
 
 
-https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing
+
+**PROJE DETAYLARI İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
+
 
 **EĞLENCELİ EKİP VİDEOMUZ İÇİN** [**TIKLAYINIZ**](https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA).
