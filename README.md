@@ -20,7 +20,7 @@ Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. 
 |--|--|
 |Nurcan DUMAN |180542018|
 |Ertuğrul Efe KAYA | 190541022|
-|Talha Hüseyin DURMUŞ | 180542009|
+|Hüseyin Talha DURMUŞ | 180542009|
 |Ahmetcan İLYAS | 190541040|
 
 
