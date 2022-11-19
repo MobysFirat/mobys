@@ -5,7 +5,7 @@
 - Hazırlanan veri setleri yolo modeli kullanılarak google colob üzerinde model eğitimleri tamamlandı.
 - Flask üzerinde eğitilen model çalıştırılarak ilk aşama çalışır hale geldi.
 
-https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing
+This site was built using [GitHub Pages](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing).
 
 # Eğlenceli ekip videomuz
 https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA
