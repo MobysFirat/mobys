@@ -27,7 +27,7 @@ Projemizin backend kısmını Python, frontend kısmını html ile oluşturduk. 
 
 ### Linkler
 
-**PROJE DETAYLARI İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
+**PROJE EĞİTİM MODELİ İÇİN** [**TIKLAYINIZ**](https://colab.research.google.com/drive/1tbfrf1oSR-sFnZla67tOdQ-WH__0qqqv?usp=sharing)
 
 
 **EĞLENCELİ EKİP VİDEOMUZ İÇİN** [**TIKLAYINIZ**](https://www.youtube.com/watch?v=4sDBfrwck4Q&ab_channel=NETA).
